@@ -1,0 +1,12 @@
+{
+  "labels":[
+    "C",
+    "BBB",
+    "BBB+",
+    "BBB-",
+    "BB",
+    "BB-",
+    "BB+"
+  ],
+  "threshold":0.5
+}

@@ -1,0 +1,9 @@
+{
+  "labels":[
+    "AAA",
+    "AA+",
+    "AA-",
+    "AA"
+  ],
+  "threshold":0.5
+}
